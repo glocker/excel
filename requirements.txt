@@ -1,0 +1,8 @@
+Webpack
+    Babel
+    Scss
+    ESlint
+    - dev mode: dev server, SourceMaps, ESlint, not minified JS/CSS
+    - prod mode: minified
+
+Git
